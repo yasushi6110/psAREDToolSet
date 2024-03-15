@@ -35,7 +35,7 @@
         {
           "width": 32,
           "height": 32,
-          "path": "icons/icon_D.png",
+          "path": "icons/light.png",
           "scale": [
             1,
             2
@@ -51,7 +51,7 @@
         {
           "width": 32,
           "height": 32,
-          "path": "icons/icon_N.png",
+          "path": "icons/dark.png",
           "scale": [
             1,
             2
@@ -74,7 +74,7 @@
     {
       "width": 23,
       "height": 23,
-      "path": "icons/dark.png",
+      "path": "icons/light.png",
       "scale": [
         1,
         2
@@ -88,7 +88,7 @@
     {
       "width": 23,
       "height": 23,
-      "path": "icons/light.png",
+      "path": "icons/dark.png",
       "scale": [
         1,
         2
